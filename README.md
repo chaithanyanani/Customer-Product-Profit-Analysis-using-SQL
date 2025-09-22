@@ -3,7 +3,7 @@
 ## 📝 Project Overview
 This project involves a comprehensive analysis of a retail company's sales data using SQL. The goal is to uncover key insights into customer behavior, product performance, and regional profitability. The project demonstrates in-depth data preprocessing, cleaning, enrichment, and the use of advanced SQL queries to generate actionable business intelligence.
 
-# 📂 Dataset Description
+## 📂 Dataset Description
 The superstore_sales table includes the following key columns:
 
 Order Info: Order_ID, Order_Date, Ship_Date, Ship_Mode
@@ -14,7 +14,7 @@ Product Info: Product_ID, Category, Sub_Category, Product_Name
 
 Financials: Sales, Profit, Discount, Quantity
 
-# ⚙️ SQL Operations Performed
+## ⚙️ SQL Operations Performed
 
 🔧 Preprocessing & Enrichment
 
@@ -24,7 +24,7 @@ Duplicate Removal: Identified and removed duplicate order records.
 
 Derived Columns: Added new columns for deeper analysis, such as Profit_Ratio, Year_Qtr (Year-Quarter), and Discount_Band.
 
-# 📊 Analysis Queries
+## 📊 Analysis Queries
 
 General Stats
 
@@ -54,7 +54,7 @@ Loss-Making Products: Identified products and sub-categories that are losing mon
 
 Basket Analysis: Found pairs of products that are frequently bought together in the same order.
 
-# 📈 Sample Insights
+## 📈 Sample Insights
 
 Which regions and customer segments are the most profitable?
 
@@ -64,7 +64,7 @@ Which specific products are consistently losing money?
 
 Is there a correlation between the discount given and the profit margin?
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 
 MySQL for data processing and query execution.
 
